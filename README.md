@@ -2,7 +2,7 @@
 - I’m interested in building beginner projects
 - I’m currently learning Python and SQL
 - I’m looking to collaborate on projects 
-- How to reach me @Jay2469
+- Reach Me ---> @Jay2469
 
 <!---
 Jay2469/Jay2469 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
