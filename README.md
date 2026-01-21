@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Jay2469
 - I’m interested in building beginner projects
 - I’m currently learning Python and Java
+- Studying Computer Science 
 - Reach Me --->  @Jay2469
 
 <!---
